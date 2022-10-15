@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { useEffect, useState } from "react";
 import useLocalMode from "./useLocalMode";
 import useSystemTheme from "./useSystemMode";
